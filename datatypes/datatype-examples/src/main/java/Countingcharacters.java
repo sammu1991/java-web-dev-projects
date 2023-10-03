@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
     public class Countingcharacters {
+
         public static void main (String[] args) {
 
             Scanner input = new Scanner(System.in);
